@@ -8,9 +8,11 @@ https://www.youtube.com/watch?v=FaO1gZjN2Pc
 
 1- git clone https://github.com/HassanKanj/codervoice-react-navigation-video-2
 
-2- yarn install
+2- cd codervoice-react-navigation-video-2
 
-3- expo start
+3- yarn install
+
+4- expo start
 
 **credits/References**
 
